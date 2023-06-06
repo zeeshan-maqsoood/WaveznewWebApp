@@ -1,0 +1,17 @@
+.search_paginationDisabled__2kmEN a {
+    color: White;
+    background-color: #D4D4D4 !important;
+}
+.not-found {
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 10px;
+
+}
+.not-found img{
+    border-radius: inherit;
+}
+.not-found a{
+    color: #4979ff;
+    text-decoration: underline;
+}

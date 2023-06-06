@@ -1,0 +1,50 @@
+.rbc-btn-group {
+    display: inline-block;
+    white-space: nowrap;
+    background-color: #4D96FB17;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.rbc-month-header {
+    display: flex;
+    flex-direction: row;
+    background-color: #4D96FB17;
+}
+
+.rbc-time-header-cell {
+    background-color: #4D96FB17;
+}
+
+.rbc-allday-cell {
+    display: none;
+ }
+
+ .rbc-agenda-date-cell {
+    white-space: nowrap;
+    min-width: 180px;
+    position: absolute;
+    left: 0px;
+ }
+ 
+ .rbc-agenda-time-cell {
+    white-space: nowrap;
+    min-width: 180px;
+    position: absolute;
+    left: 180px;
+ }
+
+ .rbc-agenda-event-cell {
+     width: 100%;
+     min-width: 180px;
+     position: relative;
+     left: 360px;
+ }
+
+ .rbc-agenda-table {
+    width: 100%;
+    border: 1px solid #DDD;
+    border-spacing: 0;
+    border-collapse: collapse;
+    position: relative;
+ }
